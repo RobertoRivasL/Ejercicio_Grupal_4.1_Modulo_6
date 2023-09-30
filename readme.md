@@ -1,9 +1,3 @@
-﻿`                                                        `**Ejercicio Grupal 4.1 Modulo 6**
-
-**Integrantes : Angelica Romero – Bastian Mariangel – Ivan Mieres – Patricio Bonnin – Roberto Rivas**
-
-
-
 
 <table><tr><th colspan="4" valign="top">Modulo</th><th colspan="3" valign="top">Nivel de Dificultad</th></tr>
 <tr><td colspan="4" valign="top">Desarrollo de aplicaciones JEE conSpring Framework</td><td colspan="3" valign="top">Medio</td></tr>
@@ -23,7 +17,7 @@
 <tr><td colspan="7" valign="top"></td></tr>
 </table>
 
-![](Aspose.Words.cdd241fb-ae26-4f51-84a0-8d2cfb2f2260.001.png)
+
 
 | 8  | **Editar Administrativo**  | <p>Formulario que permite modificar los</p><p>datos	de	un	usuario	de	tipo administrativo.</p>                                                                                                            | Administrativo                                            |
 |:---|:---------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:----------------------------------------------------------|
@@ -64,4 +58,29 @@ System.out.println).
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 | Recursos Bibliográficos:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 | <p></p><p>**Spring MVC: Configuración**</p><p><https://www.javatutoriales.com/2015/12/spring-mvc-parte-1-configuracion.html></p><p></p><p>**Introducción a MVC en Spring**</p><p><http://www.jtech.ua.es/j2ee/publico/spring-2012-13/sesion03-apuntes.html></p><p></p><p>**Crear un proyecto MVC con Spring Tool Suite (STS)**</p><p><https://www.youtube.com/watch?v=eMG9qi061D8></p><p></p><p>**Spring MVC - Cómo incluir archivos CSS o JS en una página JSP**</p><p><https://mkyong.com/spring-mvc/spring-mvc-how-to-include-js-or-css-files-in-a-jsp-page/></p><p></p><p>**Log con log4j**</p><p><https://www.es.w3ki.com/spring/logging_with_log4j.html></p>                |
+
+
+![Static Badge](https://img.shields.io/badge/Ejercicio%20Grupal%204.1%20-%20Modulo%206%20-%20brown?labelColor=abcdef&cacheSeconds=3200)
+
+## **Integrantes :**
+<table>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Angelica%20-%20Romero%20-%20violet?cacheSeconds=3200" alt="Texto alternativo 1"></td>
+    <td><img src="https://img.shields.io/badge/Bastian%20-%20Mariangel%20-%20red?cacheSeconds=3200" alt="Texto alternativo 2"></td>
+    <td><img src="https://img.shields.io/badge/Ivan%20-%20Mieres%20-%20green?cacheSeconds=3200" alt="Texto alternativo 2"></td>
+    <td><img src="https://img.shields.io/badge/Patricio%20-%20Bonnin%20-%20brown?cacheSeconds=3200" alt="Texto alternativo 2"></td>
+    <td><img src="https://img.shields.io/badge/Roberto%20-%20Rivas%20-%20blue?cacheSeconds=3200" alt="Texto alternativo 2"></td>
+  </tr>
+</table>
+
+![image](https://github.com/RobertoRivasL/Ejercicio_Grupal_4.1_Modulo_6/assets/131497718/41dcd95d-bebd-42bf-8774-a78f8c4a06c7)
+![image](https://github.com/RobertoRivasL/Ejercicio_Grupal_4.1_Modulo_6/assets/131497718/08f3007c-bb13-43f5-be03-e6f218202e14)
+![image](https://github.com/RobertoRivasL/Ejercicio_Grupal_4.1_Modulo_6/assets/131497718/b841ecb6-d922-422a-a411-3f890d1530d0)
+![image](https://github.com/RobertoRivasL/Ejercicio_Grupal_4.1_Modulo_6/assets/131497718/fc50b9ee-99a8-476e-b4bd-c93b8a901dca)
+![image](https://github.com/RobertoRivasL/Ejercicio_Grupal_4.1_Modulo_6/assets/131497718/f75e6f7f-5aea-4a29-a64c-5c108cfa5c16)
+![image](https://github.com/RobertoRivasL/Ejercicio_Grupal_4.1_Modulo_6/assets/131497718/89f6d099-f28b-467e-8f89-8b663d05fff6)
+
+
+
+
 
